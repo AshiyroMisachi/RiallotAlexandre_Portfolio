@@ -54,4 +54,6 @@ I will not spread more on my game jam game but I want to show them because they 
 ## Others
 Hope learning about me and my projects was interesting! You can find more about my skills <span style="color: red">Here!</span>
 
+***
+
 [Get back to the main page](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio)
