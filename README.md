@@ -32,4 +32,4 @@ I'm very **curious**, i love discover about new things in programmtion but also 
 I will reply as quickly as possible !
 
 * [My mail](mailto:RiallotAlexandre@hotmail.com)
-* [My Linkedin](https://www.linkedin.com/in/alexandre-riallot-582a4b351/) 
+* [My Linkedin](https://www.linkedin.com/in/alexandre-riallot-582a4b351/)
