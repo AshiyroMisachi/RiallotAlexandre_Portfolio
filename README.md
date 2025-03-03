@@ -23,7 +23,7 @@ I'm very **curious**, i love discover about new things in programmtion but also 
 ## More about me !
 
 * [My CV](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Documents/RiallotAlexandre_CV.pdf)
-* <span style="color: red">My skills</span>
+* [My skills](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Skills/Skills.md)
 * [My differents projects](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Projects/Projects.md)
 
 

@@ -67,5 +67,5 @@ I'm not afraid of failing in thing in just discover and experiment.
 
 ***
 
-Get back to the skills page
+[Get back to the skills page](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Skills/Skills.md)  
 [Get back to the main page](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio)
