@@ -7,7 +7,8 @@
 > System Programmer, Environment programmer, Level Designer
 
 
-![Logo Tinykinesis](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Projects/Tinykinesis/Assets/LogoProvisoire.png)
+<img src="https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Projects/Tinykinesis/Assets/LogoProvisoire.png" width="600" height="600">
+
 
 ## **Context**
 
