@@ -6,7 +6,8 @@
 > Team of 10    
 > System Programmer, Environment programmer, Level Designer
 
-IMAGE ICI
+
+![Logo Tinykinesis](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Projects/Tinykinesis/Assets/LogoProvisoire.png)
 
 ## **Context**
 
@@ -30,7 +31,7 @@ I used a lot of list to store information about ennemis presence or spawn and th
 
 After prototyping the ArenaManager, I decided to make a simple tool to help the use of ArenaManager, in fact, there is a lot of list who need to be setup who can be very painfull. I make a Editor Utility Widget to simplify this.   
 
-//Image ArenaManager Tools
+![EUW ArenaManager](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Projects/Tinykinesis/Assets/EUW_ArenaManager.png)
 
 
 After we will validating the system of Arena, I will update the ArenaManager to be more compact with the use of Component for spawning.
@@ -57,6 +58,8 @@ We did a pre-production and a production in this school's project. I could emplo
 * [Test the game!](https://barna-bus.itch.io/tinykinesis)
 
 ***
+  
 
-Get back to the project page  
+
+[Get back to the project page](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Projects/Projects.md)    
 [Get back to the main page](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio)

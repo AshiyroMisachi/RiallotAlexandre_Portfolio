@@ -11,7 +11,7 @@ This game is our **graduation project** who started in October 2024 and will fin
 In this project, I'm the **environment programmer** but also level designer!  
 I will just talk about my programmation work here who are related to the level design we did.   
 
-* <span style="color: red">What I did </span>
+* [What I did](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Projects/Tinykinesis/Tinykinesis.md)
 * [Test the game!](https://barna-bus.itch.io/tinykinesis)
 
 ### L'Oiseau Blanc
@@ -52,7 +52,7 @@ I will not spread more on my game jam game but I want to show them because they 
     * Head Programmer (3C, UI)
 
 ## Others
-Hope learning about me and my projects was interesting! You can find more about my skills <span style="color: red">Here!</span>
+Hope learning about me and my projects was interesting! You can find more about my skills [Here](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Skills/Skills.md)!
 
 ***
 
