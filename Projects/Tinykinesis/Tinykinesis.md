@@ -34,7 +34,7 @@ After prototyping the ArenaManager, I decided to make a simple tool to help the 
 ![EUW ArenaManager](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Projects/Tinykinesis/Assets/EUW_ArenaManager.png)
 
 
-After we will validating the system of Arena, I will update the ArenaManager to be more compact with the use of Component for spawning.
+Later, when we will validating the system of Arena, I will refactoring the ArenaManager to be more compact.
 
 ### **Environment Programmer**
 
