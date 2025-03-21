@@ -7,14 +7,15 @@ I really like Unity for his simplicity when I am doing Gamejam or little project
 
 ## Scripting in general
 
-I know how to use **heritage** and **delagate** on Unity to simplify addition to my project.   
+During my scholarship at ESMA I learned all the basic thing of Unity scripting and how to use them correctly.
 
+I know how to use **heritage** and **delagate** on Unity to simplify addition to my project.   
 I know how to use **data assets** to easely make variation of the same GameObject with scriting to not accumulate Prefab.   
 
 ***
 ## Gameplay Programming
 
-I learned how to make different type of camera for my game like First and Third person.
+Gameplay programming is my prefered type of programmation on Unity. In my different project and prototype I learned how to make different type of camera for my game like First and Third person and adjust them with what the game need.
 
 **First person code exemple:**
 ```C#
