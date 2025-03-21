@@ -27,9 +27,8 @@ I did a lot of menu and HUD and I know how add theses at the gameplay part.
 
 
 **Example of In game HUD and menu I made for the same project**   
-GIF   
-GIF
-
+![InGameUI_RollandDeRennes](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Skills/Assets/Gif/RollandDeRennes_InGame.gif) 
+![MenuUI_RollandDeRennes](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Skills/Assets/Gif/RollandDeRennes_Menu.gif)
 ***
 
 ## Animator
