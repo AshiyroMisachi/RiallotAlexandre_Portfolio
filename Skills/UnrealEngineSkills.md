@@ -26,7 +26,7 @@ I also learned how to make simple UI Material to make custom FillBar for exemple
 ***
 ## **Tools**
 
-I had the occasion to make some little tools with Editor Utility Widget to simplify action or setup for Blueprint or system I made. 
+I had the occasion to make some little tools with Editor Utility Widget to simplify action or setup for my coworker in Blueprint or system I made. 
 
 
 ***
