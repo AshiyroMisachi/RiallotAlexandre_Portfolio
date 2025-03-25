@@ -1,4 +1,4 @@
-# **Tinykinesis**
+# **Rolland De Rennes**
 
 > ESMA - Rennes   
 > Student Project - 2023 - 2 months  

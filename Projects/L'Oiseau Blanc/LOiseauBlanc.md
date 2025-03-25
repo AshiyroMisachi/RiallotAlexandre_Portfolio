@@ -1,4 +1,4 @@
-# **Tinykinesis**
+# **L'Oiseau Blanc**
 
 > ESMA - Rennes   
 > Student Project - 2024 - 3 months  
@@ -10,7 +10,9 @@
 
 ## **Context**
 
+During my second year of my scholarship at ESMA, we got asked to do a **escape room game** on Unity in team of 5, it was the second project we did in team. 
 
+With my team we decided to place the game in a toys museum in a manor where the character you play come do some urbex, but the manor was not abandoned and your character get trap and got asked to resolve some puzzle to escape before the police catch him.
 
 
 ## **What I Did**

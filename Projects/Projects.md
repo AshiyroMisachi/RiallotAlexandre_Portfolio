@@ -20,7 +20,7 @@ I will just talk about my programmation work here who are related to the level d
 This game is the second teams project we did at ESMA Schools and lasted 3 months.   
 In this project, I was the **3C Programmer** and did **Puzzle programming** too.
 
-* <span style="color: red">What I did </span>
+* [What I did](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Projects/L'Oiseau%20Blanc/LOiseauBlanc.md) 
 * [Test the game!](https://github.com/AshiyroMisachi/PEZ-GroupeG-LOiseauBlanc)
 
 ### Rolland de Rennes
@@ -29,7 +29,7 @@ In this project, I was the **3C Programmer** and did **Puzzle programming** too.
 This game is the first teams project we did and also my first project I did on Unity!   
 In this project, I was the only programmer but the main work I had to do was **UI programming**
 
-* <span style="color: red">What I did </span>
+* [What I did](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Projects/Rolland%20de%20Rennes/RollandDeRennes.md)
 * [Test the game!](https://maerys.itch.io/rolland-de-rennes)
     * The game may have some problem due to some Android Update
 
