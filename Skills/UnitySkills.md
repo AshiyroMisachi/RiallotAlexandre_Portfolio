@@ -137,6 +137,10 @@ I did a lot of menu and HUD and I know how add theses at the gameplay part.
 I use the animator generally to add some little animation to my game on gameplay or UI, I know how to settup basic animator. I know how to integrate animation to a project with C#.   
 
 
+[comment]: <> (METTRE SCRIPT DANS ANIMATOR + GIF RESULTAT D'UN TRUC)
+
+
+
 ***
 
 [Get back to the skills page](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Skills/Skills.md)  
