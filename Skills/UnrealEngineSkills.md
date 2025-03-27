@@ -23,14 +23,18 @@ With my graduate project Tinykinesis, I had the occasion to learn more about UI 
 
 I also learned how to make simple UI Material to make custom ProgressBar for exemple.
 
-//IMAGE ROUND PROGRESS BAR + GIF PROGRESS BAR
+![RoundProgressBarImage](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Skills/Assets/Image/UE_RoundProgressBarMat.PNG)
+
+[comment]: <> (METTRE GIF GIF PROGRESS BAR)
 
 ***
 ## **Tools**
 
 I had the occasion to make some little tools with Editor Utility Widget to simplify action or setup for my coworker in Blueprint or system I made. 
 
-//IMAGE ARENAMANAGER TOOLS + GIF
+![EUW ArenaManager](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Skills/Assets/Image/UE_ArenaManagerTools.PNG)
+
+[comment]: <> (ARENAMANAGER TOOLS GIF)
 
 ***
 ## **Others Workflow**

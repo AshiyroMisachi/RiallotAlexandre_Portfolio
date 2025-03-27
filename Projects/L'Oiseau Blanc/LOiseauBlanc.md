@@ -4,10 +4,10 @@
 > Student Project - 2024 - 3 months  
 > Unity - C#
 > Team of 5    
-> Gameplay Programmer, Puzzle programmer, Game Designer
+> Gameplay Programmer, Puzzle programmer, Game Designer   
 
 
-IMAGE ICONE
+![OiseauBlanc_Icon](![RdR_Icon](https://github.com/AshiyroMisachi/RiallotAlexandre_Portfolio/blob/main/Projects/Rolland%20de%20Rennes/Assets/RollandDeRennes_Icon.png))
 
 
 ## **Context**
