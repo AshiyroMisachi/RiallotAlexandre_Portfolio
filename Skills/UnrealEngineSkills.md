@@ -21,13 +21,16 @@ With all the project and prototype I made, I had the time to experiment a lot wi
 ## **UI Workflow and Programming**
 With my graduate project Tinykinesis, I had the occasion to learn more about UI in Unreal with the Widget. I learn how to make responsive UI and how to cut the HUD in different Widget to easely make change on the UI.
 
-I also learned how to make simple UI Material to make custom FillBar for exemple.
+I also learned how to make simple UI Material to make custom ProgressBar for exemple.
+
+//IMAGE ROUND PROGRESS BAR + GIF PROGRESS BAR
 
 ***
 ## **Tools**
 
 I had the occasion to make some little tools with Editor Utility Widget to simplify action or setup for my coworker in Blueprint or system I made. 
 
+//IMAGE ARENAMANAGER TOOLS + GIF
 
 ***
 ## **Others Workflow**

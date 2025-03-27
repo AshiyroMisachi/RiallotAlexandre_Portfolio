@@ -7,6 +7,8 @@
 > Gameplay Programmer, Puzzle programmer, Game Designer
 
 
+IMAGE ICONE
+
 
 ## **Context**
 
@@ -31,20 +33,16 @@ In this project we was 2 programmer and I got the mission to do the **3C** who w
 ```C#
 public class S_PlayerCamera : MonoBehaviour
 {
-    //Rotation speed of the Camera
     [SerializeField]
     private float mouseSensivity = 100f;
 
-    //Reference of the Player Transform
     [SerializeField]
     private Transform playerBody;
 
-    //Current xRotation of the Camera
     private float xRotation;
 
     void Start()
     {
-        //Lock the cursor at the start of the game
         S_CameraFunction.LockCursor();
     }
 
@@ -55,33 +53,101 @@ public class S_PlayerCamera : MonoBehaviour
         {
             return;
         }
-        //Move the Camera each frame
         MoveCameraView();
     }
 
     private void MoveCameraView()
     {
-        //Get Axis value of the Cursor      Multiplied with Sensitivity   And deltaTime to work with all frameRate
         float mouseX = Input.GetAxis("Mouse X") * mouseSensivity * Time.deltaTime;
         float mouseY = Input.GetAxis("Mouse Y") * mouseSensivity * Time.deltaTime;
 
-        //Stock xRotation modified by Y axis of the mouse
         xRotation -= mouseY;
-        //Clamp make xRotation didn't exceed certain value
         xRotation = Mathf.Clamp(xRotation, -90, 90);
 
-        //xRotation is for the PlayerCamera only
         transform.localEulerAngles = new Vector3(xRotation, 0f, 0f);
 
-        //Rotate the player based on X axis of the mouse
         playerBody.Rotate(Vector3.up * mouseX);
     }
 }
 ```
 
-[comment]: <> (METTRE CODE DEPLACEMENT ET INTERACTION)
+
+**Player Movement I did:**
+```c#
+[RequireComponent(typeof(CharacterController))]
+public class S_PlayerMovement : MonoBehaviour
+{
+    [Header("Movement")]
+    [SerializeField]
+    private float speed = 12f;
+
+    private CharacterController controller;
+
+    [Header("Gravity")]
+    private Vector3 velocity;
+
+    [SerializeField]
+    private float gravity = -9.81f;
 
 
+    [Header("GroundCheck")]
+    [SerializeField]
+    private Transform groundCheck;
+
+    [SerializeField]
+    private float groundDistance = 0.04f;
+
+    [SerializeField]
+    private LayerMask groundMask;
+
+    private bool isGrounded;
+
+    void Start()
+    {
+        //Get Reference
+        controller = GetComponent<CharacterController>();
+    }
+
+    void Update()
+    {
+        if (S_ManagerManager.GetManager<S_PlayerManager>().GetPlayerState() != PlayerState.Exploration)
+        {
+            return;
+        }
+        IsGrounded();
+        Movement();
+        PlayerGravity();
+    }
+
+    private void Movement()
+    {
+        //Stock Axis value
+        float x = Input.GetAxis("Horizontal");
+        float z = Input.GetAxis("Vertical");
+
+        Vector3 move = transform.right * x + transform.forward * z;
+
+        controller.Move(move * speed * Time.deltaTime);
+    }
+
+    private void PlayerGravity()
+    {
+        velocity.y += gravity * Time.deltaTime;
+        controller.Move(velocity * Time.deltaTime);
+    }
+
+    private void IsGrounded()
+    {
+        isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
+
+        //If the player touch the ground, reset the gravity velocity
+        if (isGrounded && velocity.y < 0)
+        {
+            velocity.y = -2f;
+        }
+    }
+}
+```
 
 ### **Puzzle Programmer**
 

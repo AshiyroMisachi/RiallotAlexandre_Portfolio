@@ -6,7 +6,7 @@
 > Team of 3    
 > Gameplay Programmer, UI programmer, System programmer
 
-
+IMAGE ICONE
 
 ## **Context**
 
@@ -39,7 +39,6 @@ The 3C of the game was relatively simple, we just needed a camera who moved with
             {
                 if (!raycastOneTime)
                 {
-                    //Camera myCamera = Camera.main;
                     Vector3 touchPos = new Vector3(Input.touches[0].position.x, Input.touches[0].position.y, myCamera.farClipPlane);
                     Vector3 touchPosInWorld = myCamera.ScreenToWorldPoint(touchPos);
                     if (!MouseOverUILayerObject.IsPointerOverUIObject())
